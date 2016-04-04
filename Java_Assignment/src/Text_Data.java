@@ -4,7 +4,7 @@
  *    This code has three parts 
  *    in first part i'm creating ndocx files which has words except file MYSTWORD contains.
  *    in second part i'm trying to find unqiue words in all then files basically i'm removing copy of same words which contains previous files.
- *    in third part i'm counting frequency of each unique word in all doc files which i've created in fiest step.
+ *    in third part i'm counting frequency of each unique word in all doc files which i've created in first step.
  *     End..!!  
 
  */
